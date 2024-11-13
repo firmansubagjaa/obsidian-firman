@@ -9,4 +9,5 @@ Selama saya sedang menempuh ekstensi dari Diploma ke Sarjana (Diploma to Bachelo
 		- Calculus & Scientific Computing
 		- Entrepreneur
 		- Software Design
+
 Semoga dalam pembuatan repository ini, dia selalu konsisten dalam pembelajaran, tidak malas untuk belajar, memperkuat fundamental dasar yang penting dan meningkatkan karier dia yang awalnya sebagai Front end Developer menjadi AI/ML Engineer.
