@@ -1,4 +1,4 @@
-# Catatan-Kuliah-Firman
+# Catatan Kuliah Firman
 ___
 Selama saya sedang menempuh ekstensi dari Diploma ke Sarjana (Diploma to Bachelor degree) di jurusan *Computer Science*, Dia akan membuat catatan pembelajaran mengenai materi selama Semester pertama hingga semester akhir. Dia akan mengisi beberapa materi yaitu :
 - Semester 1
