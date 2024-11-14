@@ -33,5 +33,20 @@ $$\begin{align}
 \end{align}$$
 3. Faktorkan ekspresi berikut :
 $$\begin{align}
-
+125a^3 - b^3
+\end{align}$$
+	- Solusi: kita bisa menggunakan rumus **pengurangan kubus**
+$$\begin{align}
+a^3 - b^3 = (a - b)(a^2 + ab + b^2) \\
+\end{align}$$
+	- Dalam soal ini , kita bisa menyusun 125^3 - b^3 menjadi bentuk a^3 - b^3 dengan:
+		- a = 5a (karena (5a)^3 = 125a^3)
+		- b = b^3 (karena b^3 = b)
+	- Jadi kita subtitusikan ke dalam rumus:
+$$\begin{align}
+125^3 - b = (5a - 1)((5a) ^ 2 + (5a)(b) + (b)^2)
+\end{align}$$
+	- Sehingga jawabnnya adalah
+$$\begin{align}
+125^3 - b = (5a - 1)(25a^2 + 5ab + b^2)
 \end{align}$$
