@@ -79,3 +79,25 @@ $$\begin{align}
 g(5) &= 5 + 5 \\
 &= 10
 \end{align}$$
+	- Hasilnya adalah 10.
+
+5. Diberikan sebuah limit dengan x = 1, tentukan nilai f(x)!
+$$\begin{align}
+\lim_{ x \to 1 } \frac{x^2-1}{x-1}\\
+\end{align}$$
+	**Jawab:**
+	- Pertama kita akan menentukan apakah hasil nilai merupakan terdefinisi atau tak terdefinisi dengan subtitusikan x = 1
+$$\begin{align}
+f(1) &= \frac{1^2 - 1} {1 - 1} \\ \\
+&= \frac{0}{0}\\
+\end{align}$$
+	- Dari hasil tersebut menyatakan bahwa hasil dari fungsi f(x) adalah tak terdefinisikan sehingga kita harus menyederhanakan fungsi tersebut.
+$$\begin{align}
+&=\frac{x^2-1}{x-1} = \frac{(x-1)(x+1)}{x-1} \\
+&= x+1
+\end{align}$$
+	- Setelah menyederhanakan dengan cara faktorisasi, maka kita akan melakukan subtitusi x = 1 :
+$$\begin{align}
+f(1) &= 1 + 1 \\
+&- 2
+\end{align}$$
