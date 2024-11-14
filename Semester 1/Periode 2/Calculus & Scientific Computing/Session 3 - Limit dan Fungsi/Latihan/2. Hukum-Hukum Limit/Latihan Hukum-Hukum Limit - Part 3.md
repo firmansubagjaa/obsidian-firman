@@ -36,3 +36,23 @@ $$\begin{align}
 &= 2
 \end{align}$$
 	- Hasilnya adalah 2 dan nilai termasuk definisi karena syarat limit x != 0, sehingga hasil tersebut x = 2.
+
+3.  Diberikan sebuah limit dengan x = 0, tentukan nilai h(x)
+$$\begin{align}
+\lim_{ x \to 0 } \frac{x^2+2x}{x}
+\end{align}$$
+	**Jawab:**
+	- Pertama kita menentukan nilai dari limit dan fungsi ini merupakan terdefinisi atau tak terdefinisi dengan cara subtitusi x = 0 ke dalam fungsi:
+$$\begin{align}
+&=\frac{0^2 + 2(0)}{0} \\
+&=\frac{0}{0}
+\end{align}$$
+	- Hasil fungsi tersebut 0/0 sehingga kita harus melakukan penyerdehanaan di pembilang dan penyebut
+$$
+\begin{align}
+\frac {x^2 + 2x}{x} &= \frac{x(x+2)}{x} \\
+&=x + 2 \\
+&= 0+ 2 \\
+&= 2
+\end{align}
+$$
