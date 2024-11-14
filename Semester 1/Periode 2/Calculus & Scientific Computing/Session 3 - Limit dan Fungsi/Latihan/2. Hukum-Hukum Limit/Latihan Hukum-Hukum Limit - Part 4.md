@@ -59,3 +59,18 @@ f(2) &= \frac {3x^2 - 12}{x-4} \\
 &= \frac{0}{-6} \\
 &= 0
 \end{align}$$
+6. Tentukan hasil f(x)!
+$$\begin{align}
+\lim_{ x \to 1 } (2x - 4) \cdot (x + 3)\\
+\end{align}$$
+	**Jawab:**
+$$\begin{align}
+f(1) &= (2(1) - 4) \cdot(1 + 3) \\
+&=(2 - 1) \cdot (4) \\
+&=1 \cdot 4 \\
+&=4
+\end{align}$$
+7. Tentukan hasil f(x)!
+$$\begin{align}
+\lim_{ x \to -3 } \frac{x^3-27}{x+3}
+\end{align}$$
