@@ -56,3 +56,26 @@ $$
 &= 2
 \end{align}
 $$
+
+4.  Diberikan sebuah limit dengan x = 5, tentukan nilai g(x)
+$$\begin{align}
+\lim_{ x \to 5 } \frac{x^2-25}{x-5}
+\end{align}$$
+	**Jawab:** 
+	- Pertama, kita menentukan apakah fungsi ini menghasilkan nilai yang terdefinisi atau nilai yang tak terdefinisi dengan cara subtitusikan x = 5 ke dalam fungsi
+$$\begin{align}
+g(5) &= \frac{5^2 - 25}{5-5} \\
+&= \frac{10 - 25}{0} \\
+&= \frac{-15}{0}
+\end{align}$$
+	- Hasil dari fungsi tersebut menyatakan bahwa nilai ini tak terdefinisikan karena pembilang maupun penyebut tidak boleh 0 atau x != 0, sehingga kita harus melakukan penyerdehanaan
+$$\begin{align}
+&=\frac{x^2 - 25}{x-5} \\
+&= \frac{(x-5) (x+5)}{x-5} \\
+&= x + 5
+\end{align}$$
+	- Lalu kita melakukan subtitusi x = 5
+$$\begin{align}
+g(5) &= 5 + 5 \\
+&= 10
+\end{align}$$
