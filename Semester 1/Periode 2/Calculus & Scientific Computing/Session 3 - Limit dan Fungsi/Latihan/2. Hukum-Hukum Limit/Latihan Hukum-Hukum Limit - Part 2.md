@@ -73,3 +73,31 @@ f(1) &= 1 + 1 \\
 &=2
 \end{align}$$
 	- Hasilnya adalah 2
+
+5.  Diberikan
+$$\begin{align}
+f(x) = \frac{6x^2 - 12}{x-2} \\
+\end{align}$$
+	Lalu kita disuruh untuk mencarikan lim x->2 f(x)
+	**Jawab:**
+	- Pertama, kita mencoba untuk melakukan subtitusi dimana x = 2 dan melakukan pengecekan apakah limit dan fungsi ini hasilnya terdefinisi atau tak terdefinisi :
+$$\begin{align}
+f(2) &= \frac{6(2)^2 - 12}{2-2} \\
+&= \frac{24 - 12}{2-2} \\
+&= \frac{12}{0}
+\end{align}$$
+	- Hasilnya adalah 0/0 dan ini menyatakan kalau limit tersebut tak terdefinisi, sehingga kita harus melakukan penyerdehanaan terlebih dahulu dalam pembilang dan penyebut :
+
+$$\begin{align}
+&= 6x^2 - 12  &  \\
+&= 6(x^2 - 2)
+\end{align}$$
+	- Kita bisa melakukan x = 2 pada pembilang dan penyebut dengan syarat x != 0
+$$\begin{align}
+f(2) &= \frac{6(2^2 - 2)}{2-2}  \\
+&= \frac{6(x - 2)(x + 2)}{x-2} \\
+&= 6(x+2) \\
+&= 6(2 + 2) \\
+&= 6(4) \\
+&= 24
+\end{align}$$
