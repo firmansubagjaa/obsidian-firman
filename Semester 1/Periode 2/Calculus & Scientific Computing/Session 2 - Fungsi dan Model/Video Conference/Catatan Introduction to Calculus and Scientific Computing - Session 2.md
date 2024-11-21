@@ -26,4 +26,8 @@ ___
 
 ## Limits
 ___
-- Limit itu 
+- **Limit** itu mencari nilai paling dekat dengan nilai *x*.
+- Dalam limit, kita mengenal tentang 
+	- Mendekati dari kiri dekati dengan kanan
+- ***Infinite limit***, ada keadaan dimana ada nilai dari f(x) sangat besar sekali, semakin besar semakin tak terhingga (negatif or positif), kita bisa dikatakan ***infinite limit***.
+- Vertical Asymtote, 
