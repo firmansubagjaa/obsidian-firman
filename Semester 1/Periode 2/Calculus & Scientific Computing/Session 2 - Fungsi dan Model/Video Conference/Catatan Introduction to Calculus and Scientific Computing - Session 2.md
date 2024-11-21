@@ -31,4 +31,4 @@ ___
 	- Mendekati dari kiri dekati dengan kanan
 - ***Infinite limit***, ada keadaan dimana ada nilai dari f(x) sangat besar sekali, semakin besar semakin tak terhingga (negatif or positif), kita bisa dikatakan ***infinite limit***.
 - Properties of Limits.
-- Pengertian Limit secara kalkulus, jarak antara f(x) 
+- Pengertian Limit secara kalkulus, jarak antara f(x) sama L ini dibuat kecil sekali.
