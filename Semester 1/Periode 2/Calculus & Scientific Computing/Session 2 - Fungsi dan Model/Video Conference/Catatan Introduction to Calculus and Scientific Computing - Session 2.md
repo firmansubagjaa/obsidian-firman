@@ -23,3 +23,7 @@ ___
 		- Segitiga dan lingkaran
 	- **Exponental** : Sesuatu dipangkat x
 	- **Logarithmic** : inverse dari eksponensial
+
+## Limits
+___
+- Limit itu 
