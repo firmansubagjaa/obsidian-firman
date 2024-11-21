@@ -18,4 +18,8 @@ ___
 	- **Polinomial**: dalam bentuk pangkat
 	- **Rational**: Dalam bentuk pembagian dalam bentuk Q(x) != 0 akan menghasilkan *infinity*.
 	- **Trigonometri**: Berhubungan dengan sudut (**sin**, **cos**, **tan**).
-		- Sudut dalam bentuk radiant
+		- Dalam bentuk sudut dalam bentuk radiant
+		- x itu domain, dari minus tak hingga sampai tak hingga dalam bentuk representasikan radian dalam -1 dan 1 ([1, 1])
+		- Segitiga dan lingkaran
+	- **Exponental** : Sesuatu dipangkat x
+	- **Logarithmic** : inverse dari eksponensial
