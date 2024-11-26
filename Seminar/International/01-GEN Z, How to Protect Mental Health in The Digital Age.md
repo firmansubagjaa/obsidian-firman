@@ -216,3 +216,16 @@ ___
 	- Promoting Mental Health Awareness
 	- Reduce stigma
 	- Developing Emotional Resillience (Practicing, Gratitude, Recognizing Triggers, Be kind)
+
+
+___
+
+
+## Conclusion
+
+- Mental health issues are important to be addressed to promote a healthier future generation
+- To protect their mental heallth, Gen Z can implement strategies such:
+	- Digital Detox and Mindfulness (Self-Control).
+	- Self_Care Practices
+	- Optimise the use of Mental Health Apps
+- Collaborativve effort between various parties are crucial to prevent and treat
