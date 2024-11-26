@@ -172,4 +172,14 @@ ___
 	- Scheduling regular breaks from technology.
 	- Creating tech-free zones at home.
 	- Develop Strong Offline Habits.
-- 
+- Self-Care Practices
+	- Physical Fitness
+		- Physical Exercise
+		- Healthy eating.
+		- Adequate sleep and relaxation techniques.
+	- Psyco-emotional
+		- Positive / grow mind-set
+		- Emotional Intelligence
+		- Stress management
+		- Resilience
+		- Time management
