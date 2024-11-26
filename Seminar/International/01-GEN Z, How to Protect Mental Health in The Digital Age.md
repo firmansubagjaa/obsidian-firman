@@ -183,3 +183,36 @@ ___
 		- Stress management
 		- Resilience
 		- Time management
+	- Social Relationships
+		- Prioritizing face-to-face interactions.
+		- Meaningful relationship.
+		- Seeking support from friends, family, and mental health professionals.
+
+
+___
+
+
+## Who Involve in Supporting Gen Z's Mental Health
+
+- Parents and Families
+	- Emotional support: foster oopen communication.
+	- Role models for healthy behaviors and coping mechanisms
+- Educational Institutions
+	- Teachers, counselors, and school psychologists offer guidance and mental health resources.
+	- Supportive environment and reduce stigma.
+- Peers and Friends
+	- Social support: respect, kindness, caring, no judgemental.
+- Mental Health Professionals
+	- Therapists, counselors, and psychatrys
+- Workplace (for order Gen Z members)
+	- Promote workplace mental health through fexible policies and resources
+	- Provide Employee Assistance Program
+- Digital Online Flat forms
+	- Accessible digital mental health support (Apps, forums, and tele-therapy services, etc).
+	- Social media campaigns.
+- Gen Z Themselves
+	- Practicing Digital Mindfulness
+	- Online Positivity
+	- Promoting Mental Health Awareness
+	- Reduce stigma
+	- Developing Emotional Resillience (Practicing, Gratitude, Recognizing Triggers, Be kind)
