@@ -130,3 +130,46 @@ ___
 - The American Psychological Association (APA) states that Gen Z individuals are more likely to report mental health concerns than previous generations (APA, 2023).
 - In a 2022 survey of 1055 Gen Z adults, 1 out of reported having more bad days than good within a 1-month time frame (APA, 2023)
 - Mckinsey Health Institue (2022) found that Generation Z experiences more health problems, particularly in regards to mental health.
+
+
+
+___
+
+
+## Not all social media use bring negative effect, there are some Positive Effect:
+
+- Access to Information
+	- Learning resources are abundant and diverse.
+- Global Networking
+	- Ability to connect with peers and mentors worldwide.
+- Creativity and innovation
+	- Platforms like TikTok and YouTube encourage creativity.
+
+
+___
+
+
+## Not all social media use bring negative effect, there are some Positive Effect:
+
+- Enhanced motivation and personal growth
+- Realistic self-evaluation
+- Goal-setting
+- Fostering a sense of belonging, emotional support and identity.
+- More open to conversations about mental health, reduce stigma.
+
+
+___
+
+
+## Protecting Mental Health
+
+##### Digital Detox and Mindfulness
+
+- Practicing ***Self-control** in:
+	- Set Priorities - Be aware of your Goal
+	- Setting limits on screen time.
+	- Curating a positive online community.
+	- Scheduling regular breaks from technology.
+	- Creating tech-free zones at home.
+	- Develop Strong Offline Habits.
+- 
