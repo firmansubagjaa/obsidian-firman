@@ -10,6 +10,7 @@ try to address for key aspect
 5. Conclusion
 
 ## Gen Z (Born 1997-2010)
+
 Digital Natives
 - Grow up with internet and technology.
 - Constantly connected via smartphones, social media, and digital platforms,
@@ -20,6 +21,7 @@ Digital Natives
 - Screen Addiction.
 
 ## Generation Z in the Digital Age
+
 - Very Multitasking
 - Attention Span Problem.
 	- Struggles to focus due to constant notifications and multitasking.
@@ -29,4 +31,12 @@ Digital Natives
 	- Fatigue, due to very long screen time.
 - Lack of fact-to-face interaction (social skills).
 - Preference for Visual Content.
+
+## Gen Z: Challenges Faced
+
+- Social Comparison in Social Media
+	- Foster a negative body image.
+	- Jealousy and envy
+	- Unrealistic standards set by influencers and peers lead to low self-esteem.
+	- Mentally Fatigue.
 
