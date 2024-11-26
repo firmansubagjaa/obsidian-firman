@@ -229,3 +229,10 @@ ___
 	- Self_Care Practices
 	- Optimise the use of Mental Health Apps
 - Collaborativve effort between various parties are crucial to prevent and treat
+
+
+___
+
+
+## Link exit ticket
+[Exit Ticket NUNI International Seminar Series #8 - 26 November 2024](https://docs.google.com/forms/d/e/1FAIpQLSehZLNeiDJ6hcLUjq2ROoxRoNgutIXf8gIXERPTda8fe2uV_g/viewform)
