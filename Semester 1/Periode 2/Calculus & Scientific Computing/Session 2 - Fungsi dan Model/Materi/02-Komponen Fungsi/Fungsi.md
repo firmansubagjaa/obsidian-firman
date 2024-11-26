@@ -83,4 +83,64 @@ Berikut adalah contoh fungsi sederhana yang merepresentasikan
 int fungsi (int x) {
 	return 2 * x + 3;
 }
+
+int main() {
+	int x = 5;
+	printf("f(%d) %d\n", x,  fungsi(x)); // Output: f(5) = 13
+	return 0;
+}
 ```
+Di sini:
+- Input x diberikan ke fungsi **fungsi**.
+- Output dihitung sebagai 2*x* + 3, lalu dikembalikan ke pemanggil fungsi.
+
+### Hubungan dengan Machine Learning
+
+Dalam Machine Learning, fungsi ini berkembang menjadi model yang lebih kompleks, seperti jaringan saraf tiruan ( **Neural Networks** ), yang menggunakan ribuan fungsi kecil untuk memodelkan hubungan data.
+
+
+___
+
+
+## Latihan Awal: Memahami Fungsi
+
+1. Diberikan fungsi $$\begin{align}
+f(x) &= 3x - 5
+\end{align}$$
+	hitung nilai $$\begin{align}
+f(2), \ f(0), \ dan \ f(-1)
+\end{align}$$
+
+___
+
+
+2. Jika fungsi : $$\begin{align}
+g(x) = x^2 + 2x + 1
+\end{align}$$
+	bagaimana grafik fungsi ini?
+	- Jawab: 
+		- **Langkah - langkah Analisis Fungsi**
+			Fungsi tersebut adalah **fungsi kuadrat** yang berbentuk: $$\begin{align}
+g(x) = ax^2 + bx + c
+\end{align}$$
+			Dimana:
+			- a = 1 (koefisien x^2)
+			- b = 2 (koefisien x)
+			- c = 1 (konstanta)
+		
+			Fungsi kuadrat seperti ini menghasilkan grafik berbentuk **parabola**. Arah parabola ditentukan oleh nilai *a*:
+			- Jika *a* > 0, parabola terbuka ke atas.
+			- Jika *a* < 0, parabolah terbuka ke bawah.
+		
+			Karena *a* = 1 > 0, parabolah ini terbuka ke atas.
+
+		- **Cara Menganalisis Grafik**
+			1. **Faktorisasi Fungsi**
+				Kita akan memfaktorkan menjadi: $$\begin{align}
+g(x) = (x + 1)^2
+\end{align}$$
+				Ini berarti parabola memiliki **akar ganda** di x = -1.
+
+2. Tulis program sederhana dalam bahasa apa pun yang Anda kuasai untuk merepresentasikan fungsi : $$\begin{align}
+h(x) = 4^2 - 7
+\end{align}$$i
