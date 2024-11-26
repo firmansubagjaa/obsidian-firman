@@ -18,3 +18,15 @@ Digital Natives
 - Exposed to global cultures and issues.
 - Highly tech-savvy.
 - Screen Addiction.
+
+## Generation Z in the Digital Age
+- Very Multitasking
+- Attention Span Problem.
+	- Struggles to focus due to constant notifications and multitasking.
+- Over-reliance on Technology.
+	- Dependecy on devices for problem-solving.
+- Digital Saturation.
+	- Fatigue, due to very long screen time.
+- Lack of fact-to-face interaction (social skills).
+- Preference for Visual Content.
+
