@@ -1,4 +1,4 @@
-#binus #seminar #international
+#binus #seminar #international #mentalhealth #genz
 
 
 ## Content
@@ -90,5 +90,31 @@ ___
 
 
 ___
+
+
+## Mental Health
+
+- A State of mental well-being that enables people to scope with the stresses of life, realize their abilities, learn well, work, well, and contribute to their community.
+- Mental Health is not just the absence of mental disorders; it is about feeling good, functioning well, and being able to bounce back from challenges.
+
+
+___
+
+
+## Good Mental Health
+
+- **Feeling good about "self"**
+	- Self-respect, realistic, able to accept failure, able to feel satisfied in life.
+- **Feeling good with others**
+	- Sense of belonging, understanding, and respect for difference.
+	- able to love and be loved, to cultivate and sustain a relationship.
+- **Able to handle life challenges**
+	- Able to make decisions, able to solve problems, and adjust when necessary
+	- Set realistic goals, condifence in palnning the future.
+
+
+___
+
+
 
 
