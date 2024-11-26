@@ -116,5 +116,17 @@ ___
 ___
 
 
+## Mental Health Awareness
+
+- Mental Health Awareness is about having the knowledge and skills in improving mental health literacy.
+	- Mental Health Literacy: knowledge and skills taht help one recognize, manage, etc.
 
 
+___
+
+
+## Mental Health Studies
+
+- The American Psychological Association (APA) states that Gen Z individuals are more likely to report mental health concerns than previous generations (APA, 2023).
+- In a 2022 survey of 1055 Gen Z adults, 1 out of reported having more bad days than good within a 1-month time frame (APA, 2023)
+- Mckinsey Health Institue (2022) found that Generation Z experiences more health problems, particularly in regards to mental health.
