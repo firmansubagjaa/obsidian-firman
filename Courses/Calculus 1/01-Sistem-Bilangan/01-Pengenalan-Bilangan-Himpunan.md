@@ -21,5 +21,12 @@ $$\sqrt{2} = 1,4142135\dots \ \ \ \ \ \pi = 3,141592\dots \ \ \ \ \ e = 2, 71828
 #### Ekspansi Desimal
 
 $$\begin{align} 
-3, 1416171892312\dots \ &= \ 3 + \frac{1}{10} + \frac{4}{100} + \frac{6}{1000} + \dots \\ &= 3 + \frac{1}{10} + \frac{4}{10^2} + \frac{6}{10^3}
+3, 1416171892312\dots \ &= \ 3 + \frac{1}{10} + \frac{4}{100} + \frac{1}{1000} + \dots \\ &= 3 + \frac{1}{10} + \frac{4}{10^2} + \frac{1}{10^3} + \dots + \dots + \frac {8}{10^7}
 \end{align}$$ 
+#### Ekspansi Bilangan Rasional
+
+Kita memiliki ekspansi desimal
+- $0,33333\dots = 0,\overline{3}$
+- $0,262626\dots = 0,\overline{26}$
+- $0,27156565656\dots = 0,271\overline{56}$
+- 
