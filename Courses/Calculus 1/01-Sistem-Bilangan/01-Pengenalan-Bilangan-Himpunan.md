@@ -15,4 +15,11 @@ Bilangan seperti $\pi$ , $\sqrt(2)$ , tidak dapat diekspresikan sebagai pembagia
 Setiap Bilangan Rasional ($\mathbb{Q}$) bisa ditulis sebagai desimal yang terbatas atau dengan pola berulang, contoh:
 $$\frac{1}{2}=0,5 \ \ \ \ \ \frac{3}{8} = 0,375 \ \ \ \ \ \frac{3}{7} = 0,428571428571428571$$
 Sedangkan representasi desimal untuk BIlangan Irasional tidak memiliki pola berulang, contoh:
-$$\sqrt{2} = 1,4142135\dots \ \ \ \ \ $$
+$$\sqrt{2} = 1,4142135\dots \ \ \ \ \ \pi = 3,141592\dots \ \ \ \ \ e = 2, 718281828459 $$
+
+## Bilangan Real dan operasi padanya
+#### Ekspansi Desimal
+
+$$\begin{align} 
+3, 1416171892312\dots \ &= \ 3 + \frac{1}{10} + \frac{4}{100} + \frac{6}{1000} + \dots \\ &= 3 + \frac{1}{10} + \frac{4}{10^2} + \frac{6}{10^3}
+\end{align}$$ 
