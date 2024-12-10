@@ -69,4 +69,15 @@ $$\begin{array}{rl}
    \therefore x &= \frac{41}{333}
    \end{array}$$
    Jadi, bentuk pecahan dari desimal $0.\overline{123} = \frac{41}{333}$.
+
+___
+
+## Latihan 3: Tipe Ekspansi Desimal
+
+Tentukan tipe ekspansi desimal berikut (berulang atau tidak berulang):
+1. $0.5$ = tidak berulang.
+2. $0.\overline{9}$ = berulang.
+3. $\sqrt{3}$ = tidak berulang.
+4. $\frac{2}{3}$ = berulang?
+
    
