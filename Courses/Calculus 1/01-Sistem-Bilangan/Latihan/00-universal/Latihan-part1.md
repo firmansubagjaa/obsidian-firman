@@ -50,5 +50,23 @@ $$\begin{array}{rl}
    Jadi, bentuk pecahan dari desimal $0.2\overline{7} = \frac{5}{18}$
    
 3. $1.\overline{35}$
-   
+   $$\begin{array}{rl} 
+   1.3535353535\dots &= x\\
+   135.3535353535\dots &= 100x \\
+   \hline
+   -134 &= 99x \\
+   \therefore x &= \frac{134}{99}
+   \end{array}$$
+   Jadi, bentuk pecahan dari desimal $1.\overline{35} = \frac{134}{99}$
+
+4. $0.\overline{123}$
+   $$\begin{array}{rl}
+   0.123123123123\dots &= x \\
+   123.123123123123\dots &= 1000x \\
+   \hline
+   -123 &= 999x \\
+   x &= \frac{123}{999} \\
+   \therefore x &= \frac{41}{333}
+   \end{array}$$
+   Jadi, bentuk pecahan dari desimal $0.\overline{123} = \frac{41}{333}$.
    
