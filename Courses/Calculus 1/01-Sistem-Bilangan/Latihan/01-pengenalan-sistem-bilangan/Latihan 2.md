@@ -21,3 +21,16 @@
 - $-2.75$ merupakan nilai bilangan rasional.
 - $0.1010010001\dots$ = nilai bilangan irrasional
 - $3.14$ merupakan nilai rasional.
+
+3. Kelompokkan bilangan berikut ke dalam $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$, atau bilangan irasional:
+   - $0$ = bilangan bulat, karena nilai $0$ merupakan nilai nol diantara nilai negatif, nol, dan positif tanpa mengandung nilai desimal.
+   - $\frac{5}{8}$ = bilangan rasional ($\mathbb{Q}$) karena berbentuk pecahan a = 5 dan b = 5, $b \ne 0$ berarti $8 > 0$ dan hasil ke nilai desimal yaitu $0.625$.
+   - $-\frac{3}{2}$ = nilai bilangan rasional, karena hasil desimalnya $1.5$.
+   - $\sqrt{9}$ = nilai rasional
+   - $\sqrt{7}$ = nilai irasional
+
+4. Tentukan apakah pernyataan berikut benar atau salah:
+   - Semua bilangan bulat adalah bilangan rasional (benar)
+   - Semua bilangan rasional adalah bilangan real. (benar)
+   - Semua bilangan irasional adalah bilangan real. (benar)
+   - Semua bilangan real adalah bilangan rasional. (salah)
