@@ -80,4 +80,76 @@ Tentukan tipe ekspansi desimal berikut (berulang atau tidak berulang):
 3. $\sqrt{3}$ = tidak berulang.
 4. $\frac{2}{3}$ = berulang?
 
-   
+___
+
+## Latihan 4: Jelaskan Konsep
+
+1. Mengapa $\sqrt{2}$ merupakan bilangan irasional?
+   Karena jika kita akar 2 dengan hasil $1.414213562373095$ , ini tidak bisa diubah menjadi pecahan karena hasil desimal tersebut tidak berulang (non-repeating), sehingga tidak bisa diubah menjadi pecahan dalam bentuk $\frac{a}{b}$ dengan $a, b \in \mathbb{Z}, b \ne 0$.
+
+2. Apa perbedaan utama antara bilangan rasional dan irasional?
+   Perbedaan utama antara bilangan rasional dan irasional itu dimana
+   - Bilangan rasional : 
+     - Nilai desimal bisa diubah menjadi pecahan dan sebaliknya dan nilai desimalnya bersifat berulang-ulang (repeating) dan desimalnya berhenti (terminating).
+     - Karena bilangan rasional terutama desimal bisa diubah menjadi pecahan dan sebaliknya, nilai penyebut $\ne 0$
+     - Sehingga rumus syarat dari bilangan rasional itu $\{\frac{a}{b}| a,b \in \mathbb{Z}, b \ne 0 \}$ 
+ - Bilangan irasional :
+	- Nilai desimal tidak bisa diubah menjadi pecahan karena berbentuk tidak berulang-ulang (non-repeating) dan tidak berhenti (non-termination).
+	  
+3. Apakah semua bilangan desimal termasuk bilangan real? Jelaskan
+   bilangan desimal termasuk bilangan real karena berbentuk bilangan rasional.
+
+___
+
+## Latihan 5: Ekspansi Desimal
+
+Hitung ekspansi desimal dari bilangann berikut:
+1. $\frac{5}{8}$
+   Jawab: 
+   - Pembilang  = 5
+   - Penyebut  = 8
+    $$\begin{align} 
+     50 - 48 &= 2 \\
+     20 - 16 &= 4 \\
+     40 - 40 &= 0 \\
+     \end{align}$$
+   - Hasil = $0.625$
+2. $\frac{1}{7}$
+   Jawab:
+   - Pembilang = 1
+   - Penyebut = 7 
+    $$\begin{align} 
+    10 - 7 &= 3 \\
+    30 - 28 &= 2 \\
+    20 - 14 &= 6 \\
+    60 - 56 &= 4 \\
+    40 - 35 &= 5 \\
+    50 - 49 &= 10
+    \end{align}$$
+    
+- Hasil = $0.\overline{142857}$
+3. $\frac{22}{7}$
+   Jawab:
+   - Pembilang = 22
+   - Penyebut = 7
+     $$\begin{align} 
+     22 - 21 &= 1 \\
+     10 - 7 &= 3 \\
+     30 - 28 &= 2 \\
+     20 - 14 &= 6 \\
+     60 - 56 &= 4 \\
+     40 - 35 &= 5 \\
+     50 - 49 &= 1 \\
+     \end{align}$$
+   - Hasil = $3.\overline{142857}$
+     
+4. $\frac{4}{3}$
+   Jawab: 
+   - Pembilang = 4
+   - Penyebut = 3
+     $$\begin{align} 
+     4 - 3 &= 1 \\
+     10 - 9 &= 1 \\
+     10 - 9 &= 1 \\
+     \end{align}$$
+   - Hasil = $1.\overline{3}$
