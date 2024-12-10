@@ -41,6 +41,17 @@ Tuliskan desimal berulang berikut dalam bentuk pecahan:
      $$
      Jadi, bentuk pecahan dari desimal berulang $0.5\overline{7} = \frac{26}{45}$
      
-1. $1.5\overline{7}$
-2. $0.2\overline{3}$
-3. $2.\overline{1}$
+4. $1.5\overline{7}$
+   - **Jawab:**
+     $$\begin{array}{rl}
+     x &= 1.577777\dots \\
+     10x &= 15.77777\dots \\
+     \hline
+     9x &= -14.2 \\
+     x &= \frac{14.2}{9} \\
+     x &= \frac{142}{90} \\
+     \therefore x &=  \frac{71}{45}
+     \end{array}$$
+     Jadi, bentuk pecahan dari desimal berulang $0.5\overline{7}=\frac{71}{45}$ 
+5. $0.2\overline{3}$
+6. $2.\overline{1}$
