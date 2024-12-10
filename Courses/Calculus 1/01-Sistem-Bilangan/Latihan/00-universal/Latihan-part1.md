@@ -24,3 +24,31 @@ Tentukan apakah bilangan berikut merupakan **bilangan rasional** atau **irasiona
 
 ___
 
+## Latihan 2: Ubah Desimal Berulang ke Pecahan
+
+Ubah desimal berikut menjadi bentuk pecahan:
+1. $0.\overline{6}$
+$$\begin{array}{rl} 
+   0.66666\dots &= x \\
+   6.66666\dots &= 10x \\
+   \hline
+   -6 &= 9x \\
+   x &= \frac{6}{9} \\
+   \therefore x &= \frac{2}{3}
+   \end{array}$$
+    Jadi, bentuk pecahan dari desimal $0.\overline{6} = \frac{2}{3}$.
+    
+2. $0.2\overline{7}$
+   $$\begin{array}{rl} 
+   0.277777\dots &= x \\
+   2.777777\dots &= 10x \\
+   \hline
+   -2.5 &= 9x \\
+   x &= \frac{25}{90}\\
+   \therefore x &= \frac{5}{18}
+   \end{array}$$
+   Jadi, bentuk pecahan dari desimal $0.2\overline{7} = \frac{5}{18}$
+   
+3. $1.\overline{35}$
+   
+   
