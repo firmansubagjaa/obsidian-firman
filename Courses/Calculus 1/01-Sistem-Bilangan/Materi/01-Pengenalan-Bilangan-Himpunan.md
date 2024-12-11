@@ -25,6 +25,7 @@ $$\begin{align}
 \end{align}$$ 
 #### Ekspansi Bilangan Rasional
 
+
 Kita memiliki ekspansi desimal
 - $0,33333\dots = 0,\overline{3}$ 
   kenapa menggunakan bar pada angka 3? karena angka $3$ ini berulang-ulang sehingga kita bisa menyatakan bahwa $0,33333\dots = 0,\overline{3}$ .
