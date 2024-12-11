@@ -18,3 +18,9 @@ b + b &= b \\
 2 &= 1
 \end{array}
 $$
+
+Ada yang lebih aneh, yang mana
+$$\begin{array}{rl} 
+7 \cdot \cancel{0} &= \cancel{0} \cdot 13
+\end{array}$$
+Ini semua terjadi inkonsisten.
