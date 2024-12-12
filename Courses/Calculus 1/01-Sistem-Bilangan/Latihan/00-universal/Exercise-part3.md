@@ -138,7 +138,7 @@ ___
 
    **Langkah 4: Sederhanakan hasil subtitusi**
    $$x = \frac{5\pm\sqrt{1}}{2}$$
-   Karena $\sqrt{1}=1$, maka: $$x = \frac{\sqrt{5\pm1}}{2}$$
+   Karena $\sqrt{1}=1$, maka: $$x = \frac{5\pm1}{2}$$
 
 ___
 
