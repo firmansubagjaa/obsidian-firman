@@ -117,3 +117,38 @@ ___
 
 7. **Darimana Asal Rumus ABC?**
    Jika persamaan kuadrat diberikan dalam bentuk $x^2 - 5x + 6 = 0$, gunakan rumus ABC untuk menemukan nilai $x$. Tuliskan langkah-langkahnya secara lengkap.
+   **Jawab:**
+   Persamaan kuadrat : $$x^2 - 5 + 6 = 0$$
+   **Langkah 1: Identifikasi nilai a, b, dan c.**
+   Bentuk umum persamaan kuadrat adalah $ax^2+bx+c=0$, sehingga: $$a = 1, \ \ b = -5, \ \ c = 6$$
+___
+
+   **Langkah 2: Subtitusi ke dalam rumus ABC.**
+   Rumus ABC adalah: $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+   Masukkan nilai $a = 1,\ b= -5, \ c = 6$: $$x = \frac{-(-5)\pm\sqrt{(-5)^2-4(1)(6)}}{2(1)}$$
+
+___
+
+
+   **Langkah 3: Sederhanakan ekspresi di bawah akar($\Delta = b^2-4ac$)**. $$b^2 - 4ac = (-5)^2 0- 4(1)(6)=25-24 = 1$$
+   Jadi: $$x = \frac{-(5) \pm \sqrt{1}}{2(1)}$$
+
+___
+
+
+   **Langkah 4: Sederhanakan hasil subtitusi**
+   $$x = \frac{5\pm\sqrt{1}}{2}$$
+   Karena $\sqrt{1}=1$, maka: $$x = \frac{\sqrt{5\pm1}}{2}$$
+
+___
+
+
+   **Langkah 5: Pisahkan menjadi dua solusi.**
+   1. Untuk $x_1$: $$x_1= \frac{5+1}{2}=\frac{6}{2}=3$$
+   2. Untuk $x_2$: $$x_2=\frac{5-1}{2} = \frac{4}{2} = 2$$
+
+___
+
+**Kesimpulan:**
+Nilai $x$ adalah: $$x_1 = 3, \ \ x^2 = 2$$
+Kedua nilai ini adalah solusi dari persamaan kuadrat $x^2-5x+6=0$.
