@@ -15,12 +15,13 @@ a + b &= b \\
 karena \ a = b, \ maka \\
 b + b &= b \\
 2\cancel{b} & = \cancel{b} \\
-2 &= 1
+2 &= 1 \ (terdefinisi)
 \end{array}
 $$
 
 Ada yang lebih aneh, yang mana
 $$\begin{array}{rl} 
-7 \cdot \cancel{0} &= \cancel{0} \cdot 13
+7 \cdot \cancel{0} &= \cancel{0} \cdot 13 \\
+7 &= 3 \ (terdefinisi)
 \end{array}$$
 Ini semua terjadi inkonsisten.
