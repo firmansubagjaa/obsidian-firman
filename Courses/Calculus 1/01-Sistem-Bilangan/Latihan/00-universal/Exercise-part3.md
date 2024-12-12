@@ -86,5 +86,17 @@ ___
 
 ___
 
-4. 
+4. **Sifat Aljabar Real - Komutatif Pertambahan**
+   - Jika diketahui:
+	   - $a = 5$
+	   - $b = 8$
+	- Buktikan bahwa operasi $a + b = b + a$ memenuhi sifat komutatif.
+	- Hitung $a + b$.
+
+___
+
+5. **Lapangan Real 0 Komutatif Perkalian**
+   - Diketahui:
+		- $x=4$
+		- $y=7$
    
