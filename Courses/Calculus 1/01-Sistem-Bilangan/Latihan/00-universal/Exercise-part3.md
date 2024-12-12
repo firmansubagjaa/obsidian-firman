@@ -99,4 +99,21 @@ ___
    - Diketahui:
 		- $x=4$
 		- $y=7$
-   
+	- Buktikan bahwa operasi $x \cdot y = y \cdot x$ memenuhi sifat komutatif.
+	- Hitung hasil perkalian $x \cdot y$,
+
+
+___
+
+6. **Mengapa Tidak Boleh Membagi dengan 0?**
+   Jelaskan apa yang akan terjadi jika kamu mencoba menghitung $\frac{5}{0}$. Gunakan penjelasan sederhana untuk mendukung jawabanmu.
+   **Jawab:**
+   - Jika kita mencoba menghitung $\frac{5}{0}, kita akan menghadapi masalah karena **tidak ada bilangan yang dapat dikalikan dengan 0 untuk menghasilkan 5**. Dalam bentuk lain, pembagian dapat dipikirkan sebagai mencari $x$ sehingga: $$0 \cdot x = 5$$
+     Karena $0 \cdot x = 0$ untuk semua nilai $x$, tidak ada nilai $x$ yang memenuhi persamaan tersebut. Oleh karena itu, $\frac{5}{0}$tidak terdefinisi.
+   - Selain itu, jika kita mencoba memaknai $\frac{5}{0} = \infty$, maka kita memasuki konsep limit (bukan hasil pembagian biasa). Tetapi di sini, konsep tak terhingga ($\infty$) tidak benar-benar bermakna dalam konteks pembagian sederhana karena mengacu pada hasil yang tak terdefinsi.  
+   - **Kesimpulan:** Membagi dengan dol tidak diperbolehkan karena hasilnya tidak terdefinisi dan akan menyebabkan ketidakkonsistenan dalam perhitungan matematika.
+
+___
+
+7. **Darimana Asal Rumus ABC?**
+   Jika persamaan kuadrat diberikan dalam bentuk $x^2 - 5x + 6 = 0$, gunakan rumus ABC untuk menemukan nilai $x$. Tuliskan langkah-langkahnya secara lengkap.
