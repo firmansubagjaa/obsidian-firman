@@ -16,7 +16,7 @@
 ___
 
 2. **Ekspansi Desimal**
-   Ubah bilangan pecahan berikut ke dalam bentuk desimal (hingga tiga angka di belakan koma):
+   Ubah bilangan pecahan berikut ke dalam bentuk desimal (hingga tiga angka di belakang koma):
    - $\frac{1}{3}$
    - $\frac{7}{8}$
    - $\frac{22}{7}$
