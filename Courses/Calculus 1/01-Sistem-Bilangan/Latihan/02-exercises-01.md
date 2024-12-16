@@ -4,8 +4,26 @@
 
 1. Diberikan himpunan bilangan berikut: $B = \{-5,-4,0,3,7,8\}$.
    - Tentukan elemen yang termasuk bilangan **bulat positif**!
+     **Jawab:**
+     Elemen yang termasuk bilangan **bulat positif** adalah $$
+	     \begin{aligned} 
+	     \{3, 7, 8\}
+	     \end{aligned}
+	    $$Penjelasan:
+	    - Angka 0 **bukan** termasuk dalam bilangan bulat positif, melainkan bilangan bulat **nol**.
+	    - Jadi, **elemen yang termasuk bilangan bulat positif** adalah: $\{3,7,8\}$
    - Tentukan elemen yang termasuk **bilangan asli**!
+     **Jawab**:
+     Elemen yang termasuk bilangan **bulat positif** adalah$$
+		    \begin{aligned}
+		    \{3,7,8\}
+		    \end{aligned}
+		     $$Karena peraturan dari bilangan **asli** dimulai dari nilai $1$.
    - Tentukan elemen yang termasuk **bilangan rasional**!
+     **Jawab:** Elemen yang termasuk bilangan **rasional** adalah $$\{-5,-4,0,3,7,8\}$$Penjelasan:
+     - Bilangan rasional adalah bilangan yang dapat dinyatakan dalam bentuk pecahan $\frac{a}{b}$ dan $b$ adalah bilangan **bulat**, dan $b \neq 0$.
+     - Semua bilangan dalam himpunan $B = \{-5,-4,-0,3,7,8\}$ adalah bilangan **rasional** karena semuanya adalah bilangan bulat yang dinyatakan sebagai pecahan dengan penyebut 1 (misalnya, $3 = \frac{3}{1}$,  ${7} = \frac{7}{1}$, dan seterusnya).
+     - Jadi, **semua elemen** dalam himpunan $B$ adalah bilangan rasional, sehingga jawabannya adalah: $\{-5,-4,0,3,7,8\}$
 
 ___
 
