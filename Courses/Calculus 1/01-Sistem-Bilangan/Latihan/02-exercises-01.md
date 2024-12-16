@@ -42,10 +42,27 @@ ___
      Proses: Melakukan pembagian dengan $5 \div 6$
      - $50 - 48 = 2$
      - $20 - 18 = 2$
-     - 
-     Jadi, nilai ekspansi desimalnya: $0.93$
-   - $\frac{13}{14}$
-   - $\frac{10}{3}
+     - $20 - 18 = 2$
+     - Dan seterusnya
+     Jadi, nilai ekspansi desimalnya: $0.9\overline{3}$ atau $0.933\dots$ dan ini merupakan desimal yang berulang (*repeating*).
+   - $\frac{13}{14}$ 
+     **Jawab:**
+     Pembilang : 13
+     Penyebut: 14
+     Proses: Melakukan pembagian dengan $13 \div 14$
+     - $130 - 126 = 4$
+     - $40 - 28 = 12$
+     - $120 - 112 = 8$
+     Jadi, nilai ekspansi desimalnya: $0.928$ dan ini merupakan desimal yang berhenti (*terminating*).
+   - $\frac{10}{3}$
+     **Jawab:**
+     Pembilang : 10
+     Penyebut : 3
+     Proses: Melakukan pembagian $10 \div 3$
+     - $10 - 9 = 1$
+     - $10 - 9 = 1$
+     - Dan seterusnya
+     Jadi, nilai ekspansi desimalnya: $3.\overline{3}$ atau $3.333\dots$ dan ini merupakan desimal yang berulang (*repeating*) 
 
 ___
 
