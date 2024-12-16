@@ -24,6 +24,11 @@
      - Bilangan rasional adalah bilangan yang dapat dinyatakan dalam bentuk pecahan $\frac{a}{b}$ dan $b$ adalah bilangan **bulat**, dan $b \neq 0$.
      - Semua bilangan dalam himpunan $B = \{-5,-4,-0,3,7,8\}$ adalah bilangan **rasional** karena semuanya adalah bilangan bulat yang dinyatakan sebagai pecahan dengan penyebut 1 (misalnya, $3 = \frac{3}{1}$,  ${7} = \frac{7}{1}$, dan seterusnya).
      - Jadi, **semua elemen** dalam himpunan $B$ adalah bilangan rasional, sehingga jawabannya adalah: $\{-5,-4,0,3,7,8\}$
+     - Catatan:
+       - berulang (repeating)
+         **Contoh**: $0.\overline{3} \ atau \ 0.333\dots$.
+       - tak berulang (Terminating or non-repeating)
+         **Contoh:** $0.825$, $0.5$, $0.25$, dan sebagainya.
 
 ___
 
@@ -31,6 +36,14 @@ ___
 
 2. Ubah bilangan pecahan berikut ke dalam bentuk desimal (hingga tiga angka di belakang koma):
    - $\frac{5}{6}$
+     **Jawab:**
+     Pembilang : $5$
+     Penyebut : $6$
+     Proses: Melakukan pembagian dengan $5 \div 6$
+     - $50 - 48 = 2$
+     - $20 - 18 = 2$
+     - 
+     Jadi, nilai ekspansi desimalnya: $0.93$
    - $\frac{13}{14}$
    - $\frac{10}{3}
 
