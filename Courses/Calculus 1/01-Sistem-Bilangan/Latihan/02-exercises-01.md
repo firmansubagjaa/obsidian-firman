@@ -69,12 +69,35 @@ ___
 #### Latihan 3: Kenapa $\pi$ Bukan $\frac{22}{7}$
 
 3. Hitung hasil $\frac{22}{7}$ hingga lima angka di belakang koma dan bandingkan dengan nilai $\pi$ yang sebenarnya ($3.14159\dots$). Apa yang membedakan keduanya?
+   **Jawab:** 
+   - Kita akan melakukan ekspansi desimal dari pecahan $\frac{22}{7}$
+     - Pembilang: 22
+     - Penyebut: 7
+     - Proses: Melakukan pembagian antara $22 \div 7$
+       - 22 - 21 = 1
+       - 10 - 7 = 3
+       - 30 - 28 = 2
+       - 20 - 14 = 6
+       - 60 - 56 = 4
+       - 40 - 35 = 5
+       - Dan seterusnya
+   - Jadi, ekspansi desimal dengan lima angka di belakang koma adalah $3.14285$.
+   - Jika hasil ekspansi desimal dari pecahan $\frac{22}{7}$ adalah $3.14285$, sedangkan nilai desimal $\pi$ adalah $3.14159\dots$, yang membedakan keduanya adalah :
+	   - Nilai desimal $3.14285$ merupakan bilangan **rasional** karena nilai tersebut bisa diubah kembali menjadi pecahan yaitu $\frac{22}{7}$.
+	   - Nilai desimal dari $\pi$ yaitu $3.14159\dots$ merupakan bilangan **irasional** karena nilai desimal tersebut bersifat tak terhingga dan tak berulang (*terminating*), sehingga nilai tersebut tidak bisa diubah menjadi nilai pecahan.
+
 
 ___
 
 #### Latihan 4: Pembagian dengan $0$
 
-4. Jelaskan apa yang terjadi jika kamu mencoba membagi suatu bilangan $a$ dengan $0$. Gunakan contoh $\frac{7}{0}$ dan jelaskan kenapa hasilnya tak terdefinisi.
+4. Jelaskan apa yang terjadi jika kamu mencoba membagi suatu bilangan $a$dengan $0$. Gunakan contoh $\frac{7}{0}$ dan jelaskan kenapa hasilnya tak terdefinisi.
+   **Jawab:** karena jika kita paksakan melakukan pembagian 0 yang mana pecahannya $\frac{7}{0}$ maka, 
+   - hasilnya tak terhingga ($\infty$) sehingga ini akan terjadinya inkonsisten dan tak terdefinisi karena secara tidak langsung kita memasuki konsep limit (bukan pembagian biasa). Tetap di sini, konsep tak hingga ($\infty$) tidak benar-benar bermakna dalam konteks pembagian sederhana karena mengacu pada hasil yang tak terdefinisi
+
+   - Jika kita mencoba menghitung pecahan tersebut, kita akan menghadapi masalah karena **tidak ada bilangan yang dapat dikalikan dengna 0 untuk menfhasilkan 5**. Dalam bentuk lain, pembagian dapat dipikirkan sebagai mencari *x* sehingga: $$0 \ \cdot \ x = 5$$Karena $0 \ \cdot \ x = 0$ untuk semua nilai $x$, tidak ada nilai $x$ yang memenuhi persamaan tersebut. Oleh karena itu, pecahan tersetut tidak terdefinisi.
+     
+   - **Kesimpulan**: Membagi dengan nol tidak diperbolehkan karena hasilnya tidak terdefinisi dan akan menyebabkan ketidak konsistenan dalam perhitungan matematika.
 
 ___
 
