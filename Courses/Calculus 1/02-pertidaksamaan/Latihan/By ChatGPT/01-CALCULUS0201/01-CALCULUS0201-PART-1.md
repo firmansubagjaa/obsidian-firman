@@ -52,3 +52,13 @@
  x &< 2  
    \end{aligned}
    $$
+
+___
+
+#### Latihan 2: Pertidaksamaan dengan Bilangan Negatif
+
+1. Selesaikan $-2x + 3 > 7$.
+2. Tentukan solusi dari $-5x-8 \geq 2$.
+3. Jika $-6x + 10 < 4$, berapa nilai $x$?
+4. Selesaikan $-3x-5 \leq -11$.
+5. Tentukan $x$ untuk $-7x+9 > 16$.
