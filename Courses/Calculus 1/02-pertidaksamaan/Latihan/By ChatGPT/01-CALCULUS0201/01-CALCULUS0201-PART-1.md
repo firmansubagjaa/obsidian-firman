@@ -62,8 +62,8 @@ ___
    -2x + 3 &> 7 \\
    -2x &> 7 - 3 \\
    -2x &> 4 \\
-   x &> \frac{4}{-2} \\
-   \therefore x &> -2
+   x &< \frac{4}{-2} \\
+   \therefore x &< -2
    \end{aligned}
    $$
 2. Tentukan solusi dari $-5x-8 \geq 2$.
@@ -71,8 +71,8 @@ ___
    -5x - 8 &\geq 2 \\
    -5x &\geq 2 + 8 \\
    -5x &\geq 10 \\
-   x &\geq \frac{10}{-5} \\
-   \therefore x &\geq -2 
+   x &\leq \frac{10}{-5} \\
+   \therefore x &\leq -2 
    \end{aligned}
    $$
 3. Jika $-6x + 10 < 4$, berapa nilai $x$?
@@ -80,8 +80,8 @@ ___
    -6x + 10 &< 4 \\
    -6x &< 4 - 10 \\
    -6x &< 6 \\
-   x &< \frac{6}{-6} \\
-   \therefore x &< -1 
+   x &> \frac{6}{-6} \\
+   \therefore x &> -1 
    \end{aligned}
    $$
 4. Selesaikan $-3x-5 \leq -11$.
@@ -98,7 +98,7 @@ ___
    -7x + 9 &> 16 \\
    -7x &> 16 - 9 \\
    -7x &> 7 \\
-   x &> \frac{7}{-7} \\
-   \therefore x &> -1
+   x &< \frac{7}{-7} \\
+   \therefore x &< -1
    \end{aligned}
 	$$
