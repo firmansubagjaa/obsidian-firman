@@ -102,3 +102,53 @@ ___
    \therefore x &< -1
    \end{aligned}
 	$$
+
+___
+
+#### Latihan 3: Pertidaksamaan Kuadrat Sederhana
+
+1. Tentukan solusi dari $x^2 - 9 \geq 0$.
+   **Jawab**:
+   - Melakukan pemfaktoran persamaan kuadrat
+   $$\begin{aligned}
+   x^2 - 9 = (x - 3)(x + 3)
+   \end{aligned}
+   $$
+   - Jadi, pertidaksamaan menjadi $$(x-3)(x+3) \geq 0$$
+   - Nilai kritis adalah akar-akar dari persamaan $(x-3)(x+3) = 0$, yaitu: $$x-3=0 \ \ \ atau \ \ \ x + 3 = 0$$Sehingga, nilai kritisnya adalah $x = 3$ dan $x = -3$.
+   - Bagi garis bilangan menjadi tiga interval berdasarkan nilai kritis $x = -3$ dan $x = 3$:
+	   - Interval 1: $x < -3$
+	   - Interval 2: $-3 \leq x \leq 3$
+	   - Interval 3: $x > 3$
+	- Menuji tanda dari ekspresi $(x-3)(x+3)$ di setiap interval.
+		- **Interval 1**: $x < -3$
+		  Ambil $x = -4$ sebagai contoh: $$\begin{aligned}
+		  (x-3)(x+3) &= (-4-3)(-4+3) \\
+		  &= (-7)(-1) \\
+		  \therefore &= 7 > 0
+		  \end{aligned}
+		  $$**Tanda positif (+)**.
+		- **Interval 2**: $-3 \leq x \leq 3$
+		  Ambil $x=0$ sebagai contoh: $$\begin{aligned}
+		  (x-3)(x+3) &= (0-3)(0+3) \\
+		  &=(-3)(3) \\
+		  \therefore &= -9 < 0
+		  \end{aligned}
+		  $$ **Tanda negatif(-).**
+		- **Interval 3**: x > 3
+		  Ambil $x = 4$ sebagai contoh: $$
+		  \begin{aligned}
+		   (x - 3)(x + 3) &= (4 - 3)(4 + 3) \\
+		   &= (1)(7) \\
+		   \therefore &= 7 > 0
+		  \end{aligned}
+		  $$**Tanda positif(+).**
+		  
+1. Jika $x^2 - 4x - 12 > 0$, carilah solusi $x$.
+2. Selesaikan $x^2+2x-8<0$.
+3. Tentukan interval x untuk $x^2 - 16 < 0$.
+4. JIka $x^2+6x+8 \leq 0$, tentukan nilai $x$.
+
+___
+
+

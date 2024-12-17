@@ -52,6 +52,7 @@ ___
 2. **Pertidaksamaan Kuadrat**
    - Berbentuk $ax^2+bx+c > 0$, melibatkan eksponen 2.
    - Contoh: $x^2 - 4 < 0$.
+     
 3. **Pertidaksamaan Rasional**
    - Melibatkan pecahan, seperti $\frac{P(x)}{Q(x)} > 0$
    - Contoh $\frac{x+1}{x-2}\geq 0$.
