@@ -126,5 +126,37 @@ ___
 	      \begin{aligned}
 	      x \in (-\infty, -2 | \cup | 2, \infty)
 	      \end{aligned}
-	     $$
-1. $x^2 + 4x - 5 < 0$
+	     $$___
+	     
+2. $x^2 + 4x - 5 < 0$
+   1. Faktorkan persamaan kuadrat: $$\begin{aligned} 
+      x^2+ 4x -5 = (x - 1)(x + 5)
+      \end{aligned}$$
+   2. Tentukan nilai-nilai kritis (akar-akar) dari faktorisasi: $$\begin{aligned} 
+      (x-1)(x+5) = 0 \ \ \ \ \implies \ \ \ \ x = 1 \ atau \ x = -5
+      \end{aligned}$$
+   3. Tentukan tanda dari faktor-faktor tersebut dengan membuat interval beredasarkan akar-akar yang ditentukan: $(-\infty, -5), (-5,1), (1, \infty)$
+      - Untuk $(-\infty, -5)$, pilih nilai $x = -6$: $$\begin{aligned} 
+      (-6 - 1)(-6+5) &= (-7)(-1) \\
+      &= 7 > 0
+      \end{aligned}$$
+      - Untuk $(-5, 1)$, pilih nilai x = 0:$$\begin{aligned} 
+      (0 - 1)(0 + 5) &= (-1)(5) \\
+      &= -5 < 0
+      \end{aligned}$$
+      - Untuk $(1, \infty)$, pilih nilai $x = 2$: $$\begin{aligned} 
+      (2 - 1)(2 + 5) &= (1)(7) \\
+      &= 7 > 0
+      \end{aligned}$$
+   4. Berdasarkan tanda positif dan negatif, solusi untuk $(x - 1)(x + 5) < 0$ adalah: $$\begin{aligned} 
+      x \in (-5, 1)
+      \end{aligned}$$
+
+___
+
+
+3. $x^2-2x-3 \geq 0$
+   1. Faktorkan persamaan kuadrat:
+   2. Tentukan nilai-nilai kritis dari faktorisasi
+   3. Tentukan tanda dari faktor-faktor tersebut dengan membuat interval beredasarkan akar-akar yang ditentukan: $(-\infty, -1), (-1,3), (3, \infty)$
+   4. Berdasarkan tanda positif dan negatif
