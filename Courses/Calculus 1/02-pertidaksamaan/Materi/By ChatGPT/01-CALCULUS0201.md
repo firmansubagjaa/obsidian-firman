@@ -52,7 +52,6 @@ ___
 2. **Pertidaksamaan Kuadrat**
    - Berbentuk $ax^2+bx+c > 0$, melibatkan eksponen 2.
    - Contoh: $x^2 - 4 < 0$.
-     
 3. **Pertidaksamaan Rasional**
    - Melibatkan pecahan, seperti $\frac{P(x)}{Q(x)} > 0$
    - Contoh $\frac{x+1}{x-2}\geq 0$.
@@ -90,3 +89,42 @@ x &\leq \frac{6}{-3} \\
 x &\leq -2
 \end{aligned}
 $$
+
+___
+##### Contoh soal pertidaksamaan kuadrat
+1. $x^2 - 4 \geq 0$
+   **Jawab:**
+   1. Faktorkan persamaan kuadrat
+      $$
+	      \begin{aligned}
+	      x^2 - 4 = (x-2)(x+2)
+	      \end{aligned}
+	     $$
+   2. Tentukan nilai-nilai kritis (akar-akar) dari faktorisasi:
+      $$
+	      \begin{aligned}
+	      (x-2)(x+2) = 0 \ \ \ \implies \ \ \ \ x = 2 \ atau \ x = -2
+	      \end{aligned}
+	     $$
+   3. Tentukan tanda dari faktor-faktor tersebut dengan membuat interval berdasarkan akar-akar yang ditemukan: $(-\infty, 2),(-2,2), (2, \infty)$
+      - Untuk $(-\infty, -2)$, pilih nilai $x = -3$:$$
+	      \begin{aligned}
+	      (-3 - 2)(-3+2) = (-5)(-1) = 5 > 0
+	      \end{aligned}
+	     $$
+      - Untuk $(-2,2)$, pilih nilai $x=0$:  $$
+	      \begin{aligned}
+	      (0 - 2)(0+2) = (-2)(2) = -4 < 0
+	      \end{aligned}
+	     $$
+      - Untuk $(2, \infty)$, pilih nilai $x = 3$:  $$
+	      \begin{aligned}
+	      (3 - 2) (3 + 2) = (1)(5) = 5 > 0
+	      \end{aligned}
+	     $$
+   4. Berdasarkan tanda positif dan negatif, solusi untuk $(x-2)(x+2) \geq 0$ adalah: $$
+	      \begin{aligned}
+	      x \in (-\infty, -2 | \cup | 2, \infty)
+	      \end{aligned}
+	     $$
+1. $x^2 + 4x - 5 < 0$
