@@ -105,7 +105,74 @@ ___
 
 5. Selesaikan persamaan kuadrat berikut menggunakan rumus ABC:
    - $x^2-4x-5=0$
+     **Jawab:**
+     - Melakukan identifikasi $$a = 1, \ b = -4, \ c = -5$$
+     - Rumus ABC $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+     - Subtitusikan
+       $a = 1$
+       $b = -4$
+       $c = -5$
+       $$
+	       \begin{aligned}
+	       x &= \frac{-4 \pm \sqrt{(4)^2 - 4(1)(-5)}}{2(1)} \\
+	       x &= \frac{-4 \pm \sqrt{16 + 20}}{2} \\
+	       x &= \frac{-4 \pm \sqrt{36}}{2} \\
+	       x &= \frac{-4 \pm 6}{2}
+	       \end{aligned}
+		  $$
+	 - Pisahkan menjadi dua solusi, $x_1$ dan $x_2$
+		 - $x_1$:
+		   $$
+		      \begin{aligned}
+		      x_1 &= \frac{-4+6}{2} \\
+		      x_1 &= \frac{2}{2} \\
+		      \therefore x_1 &= 1
+			  \end{aligned}
+		      $$
+		 - $x_2$: 
+		   $$
+			   \begin{aligned}
+			   x_2 &= \frac{-4 - 6}{2} \\
+			   x_2 &= - \frac{8}{2} \\
+			   \therefore x_2 &= -4
+			   \end{aligned}
+		      $$
+	 - **Kesimpulan:** Jadi, nilai $x$ adalah $$x_1 = 1 \ dan \ x_2 = -4$$
    - $3x^2+2x - 1 = 0$
+     **Jawab:**
+     - Identifikasi $$a = 3,\ b = 2, \ c = -1$$
+     - Rumus ABC $$x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
+     - Subtitusikan
+       $a = 3$
+       $b = 2$
+       $c=-1$
+       $$
+	       \begin{aligned}
+	       x &= \frac{(-2) \pm \sqrt{b^2-4(3)(-1)}}{2(3)} \\
+	       x &= \frac{(-2) \pm \sqrt{4-(-12)}}{6} \\
+	       x &= \frac{(-2) \pm \sqrt{16}}{6} \\
+	       x &= \frac{-2 \pm 4}{6}
+	       \end{aligned}   
+          $$
+     - Pisahkan menjadi dua solusi
+	     - $x_1$
+	       $$
+		       \begin{aligned}
+		       x &= \frac{-2 + 4}{6} \\
+		       x &= \frac{2}{6} \\
+		       \therefore x &= \frac{1}{3}
+		       \end{aligned}
+		       $$
+	     - $x_2$
+	        $$
+		       \begin{aligned}
+		       x &= \frac{-2 - 4}{6} \\
+		       x &= -\frac{6}{6} \\
+		       \therefore x &= -1
+		       \end{aligned}
+		       $$
+     - Kesimpulan
+       Jadi, nilai $x$ adalah $$x_1 = \frac{1}{3} \ dan \ x_2 = -1$$
 
 ___
 
