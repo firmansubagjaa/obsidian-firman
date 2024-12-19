@@ -127,7 +127,7 @@ ___
 	      x \in (-\infty, -2 | \cup | 2, \infty)
 	      \end{aligned}
 	     $$
-	    Karena kita menginginkan hasil yang lebih besar atau sama dengan 0, maka solusi ini termasuk $x = -2$ dan $x=2$.
+	    Karena kita menginginkan hasil yang lebih besar atau sama dengan 0, maka solusi ini termasuk $x = -2$ dan $x=2$
  ___
 	     
 2. $x^2 + 4x - 5 < 0$
