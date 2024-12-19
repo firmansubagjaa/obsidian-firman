@@ -124,7 +124,63 @@ ___
       - Ambil Faktor Persekutuan (faktor luar)(faktor dalam): $$(x-5)(x-6)$$
    4. Hasil Faktorisasi : $$x^2-11+30 = (x-5)(x-6)$$ 
       
-1. $2x^2-3x-2$
-2. $x^2+10x+24$
-3. $3x^2+19+6$
+8. $2x^2-3x-2$
+   **Jawab:**
+   - Identifikasi: 
+     - $a = 2, b = -3, c = -2
+   - Mencari $m$ dan $n$:
+     $m \cdot n = a \cdot c = 2 \times (-2) = -4$
+     $m + n = b = -3$
+     Pasangan yang memenuhi adalah $m = -4, n = 1$
+     - $m \cdot n = -4 \times 1 = -4$
+     - $m + n = -4 + 1 = -3$
+   - Faktorkan: $$
+   \begin{aligned}
+   2x^2-3x-2 &= 2x^2 - 4x +x - 2 \\
+   &= (2x^2-4x)+(x-2) \\
+   &= 2x(x-2)-1(x-2) \\
+   &=(2x-1)(x-2)
+   \end{aligned}
+   $$
+   - Hasil Faktorial : $$2x^2-3x-2=(2x-1)(x-2)$$
+     
+
+9. $x^2+10x+24$
+   **Jawab:**
+   1. Identifikasi: $$a=1,b=10,c=24$$
+   2. Mencari $m$ dan $n$: 
+      $m \cdot n = a \cdot c = 1 \times 24 = 24$
+      $m + n = b = 10$
+      Pasangan yang mememuhi adalah $m=4$ dan $n = 6$:
+      - $4 \times 6 = 24$
+      - $4+6 = 10$
+   3. Faktorkan :
+       $$
+	       \begin{aligned}
+	       x^2+10+24 &= x^2 + 4x + 6x + 24\\
+	       &=(x^2+4x)(6x + 24) \\ 
+	       &=x(x + 4)+6(x+4) \\
+	       \therefore &= (x + 6)(x+4) 
+	       \end{aligned}
+	      $$
+   4. Hasil Faktorisasi: $$x^2 + 10 + 24 = (x+6x)(x+4)$$
+10. $3x^2+19x+6$
+    **Jawab:**
+    1. Identifikasi: $$a=3,b=19,c=6$$
+    2. Mencari nilai $m$ dan $n$:
+       $m \cdot n = a \cdot c = 3 \times 6 = 18$
+       $m + n = b = 19$
+       Pasangan yang memenuhi adalah $m=1$ dan $n = 18$ karena:
+       - $m \cdot n = 1 \times 18 = 18$
+       - $m + n = 1 + 18 = 19$
+    3. Faktorkan: 
+	    $$
+	    \begin{aligned}
+	    3x^2+19x+6 &= 3x^2+x + 18x + 6 \\
+	    &=(3x^2+x)(18x+6) \\
+	    &=x(3x+1)+6(3x + 1) \\
+	    &=(x + 6)(3x+1)
+	    \end{aligned}
+	     $$
+	4. Hasil Faktorial: $$3x^2+19x+6 = (x+6)(3x+1)$$
 
