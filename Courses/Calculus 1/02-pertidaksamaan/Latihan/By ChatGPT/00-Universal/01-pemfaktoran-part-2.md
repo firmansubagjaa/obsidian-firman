@@ -24,7 +24,7 @@ ___
        - $m = 5$
        - $n = 3$
    - Lalu kita faktorkan nilai persamaan kuadrat:
-     - Pecah suku tengah: $$x^2+8+15 = x^2 + 5x + 3x + 15$$
+     - Pecah suku tengah: $$x^2+8x+15 = x^2 + 5x + 3x + 15$$
      - Kelompokkan: $$x^2+5x+3x+15= (x^2+5x)(3x+15)$$
      - Faktorkan masing-masing kelompok: $$x(x + 5)+3(x + 5)$$
      - Ambil faktor persekutuan: $=(x+5)(x+3)$
