@@ -87,7 +87,7 @@ ___
 	- Hasil pemfaktoran: $$x^2+2x-15 = (x-5)(x-3)$$
 6. $4x^2-12x+9$
    **Jawab:**
-   - Identifikasi a,b,c = $a = 4x, b = -12, c = 9$
+   - Identifikasi a,b,c = $a = 4, b = -12, c = 9$
    - Mencari misalkan $m$ dan $n$: 
      $m \cdot n = a \cdot c = 4 \cdot 9 = 36$
      $m + n = b = -12$
@@ -98,10 +98,10 @@ ___
 	   $$ \begin{aligned}
 		   4x^2-12x+9 &=4x^2-6x-6x+9\\
 		   &=(4x^2-6x)+(-6x+9)\\
-		   &=3x(2x-3)-3(2x-3)\\
-		   &=(3x-3)(2x-3) 
+		   &=2x(2x-3)-3(2x-3)\\
+		   &=(2x-3)(2x-3) 
 		  \end{aligned}$$
-	- Hasil pemfaktoran: $$4x^2-12x+9 = (3x-3)(2x-3)$$
+	- Hasil pemfaktoran: $$4x^2-12x+9 = (2x-3)^2$$
 1. $x^2-16$
 2. $2x^2+3x-9$
 3. $x^2-4x-12$
