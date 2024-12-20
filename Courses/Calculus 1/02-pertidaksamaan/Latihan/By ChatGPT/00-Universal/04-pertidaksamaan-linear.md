@@ -31,7 +31,35 @@
 	   - Interval $(3, \infty), \ x= 4$: $$ (4 - 2)(4 - 3) = (2)(1) = 2 > 0 $$
 	4. Gunakan syarat pertidaksamaan
 	   Karena $x^2-5x+6 > 0$, pilih interval dengan tanda positif $(+)$: $$x \in (-\infty,2)\cup(3, \infty)$$
-1. $x^2+x-6 \leq 0$
-2. $2x^2-3x-2 < 0$
-3. $4x^2-4x+1 \geq 0$
-4. $x^2-2x-8 > 0$
+2. $x^2+x-6 \leq 0$
+3. $2x^2-3x-2 < 0$
+   **Jawab:**
+   1. Indentifikasi a, b, dan c: $a = 2, b = -3, c=-2$
+   2. Menggunakan rumus Kuadrat:
+       $$
+      \begin{aligned}
+      x &= \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\\
+      &= \frac{-(-3) \pm \sqrt{(-3)^2 - 4(2)(-2)}}{2(2)}\\
+      &= \frac{3 \pm \sqrt{9 + 16}}{4}\\
+      &= \frac{3 \pm \sqrt{25}}{4}\\
+      &= \frac{3 \pm 5}{4}
+      \end{aligned}
+      $$Kita bagikan menjadi dua solusi:
+      $$
+      \begin{aligned}
+      x_1 &= \frac{3 + 5}{4} = \frac{8}{4} = 2 \\
+      x_2 &= \frac{3-5}{4} = -\frac{2}{4} = -\frac{1}{2} 
+      \end{aligned}
+       $$
+   3. Menentukan Interval: kita bagi menjadi 3 interval:
+      - $(-\infty, -\frac{1}{2})$
+      - $(-\frac{1}{2}, 2)$
+      - $(2, \infty)$
+   4. Tentukan tanda pada setiap interval
+      - Interval $(-\infty, -\frac{1}{2})$, nilai $x$ = -1: $$2(1)^2 -3(-1) - 2 = 2(1) + 3 - 2 = 3 \ \ (+)$$Hasilnya positif
+      - Interval $(-\frac{1}{2}, 2)$, nilai $x = 0$: $$2(0)^2 - 3(0) - 2 = 0 - 0 - 2=-2 \ (-)$$Hasilnya negatif
+      - Interval $(2, \infty)$, nilai $x = 3$: $$2(3)^2 - 3(3)-2 = 18 - 9 - 2 = 7 \ (+)$$Hasilnya positif
+	5. Jadi, solusi dari pertidaksamaan $2x^2-4x-2 < 0$ adalah : $$x \in (-\frac{1}{2}, 2)$$ 
+
+1. $4x^2-4x+1 \geq 0$
+2. $x^2-2x-8 > 0$
